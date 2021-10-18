@@ -18,8 +18,8 @@ The GPU fitter requires:
 
 The CPU version runs on macOS and Microsoft Windows 7 or newer, 64-bit
 # Contact
-author: Yiming Li
-email: liym2019@sustech.edu.cn
+  - author: Yiming Li
+  - email: liym2019@sustech.edu.cn
 
 # Copyright and Software License
 Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzhen &Ries Lab, European Molecular Biology Laboratory, Heidelberg.
