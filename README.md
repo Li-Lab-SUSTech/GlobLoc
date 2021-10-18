@@ -6,7 +6,7 @@ To do...
 Example [data link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV)
  
  # How to run
-A full instruction guide can be found in [supplementary material] (https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
+A full instruction guide can be found in [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
 
 
  # How to cite GlobLoc
