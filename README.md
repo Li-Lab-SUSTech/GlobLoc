@@ -24,6 +24,8 @@ For any questions / comments about this software, please contact [Li Lab] https:
 Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzhen &Ries Lab, European Molecular Biology Laboratory, Heidelberg.
 
  # How to run
+ To do...
+ 
 A full instruction guide can be found in [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
 
 
