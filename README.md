@@ -6,10 +6,10 @@ To do...
 Example [data link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV)
  
  # How to run
-Example code for "Global fitting for high-accuracy multi-channel single-molecule localization"
+A full instruction guide can be found in [supplementary material] (https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
 
 
  # How to cite GlobLoc
-If you use fit3Dcspline to process your data, please, cite our [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1)
+If you use Global to process your data, please, cite our [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1)
 
 
