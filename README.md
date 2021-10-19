@@ -24,7 +24,7 @@ Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzh
  # How to run
  Example code is avalible in file **Example_GlobalFit_biplane.m**. The required test data for the demo code can be found in the folder by following [this link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV). A full instruction guide can be found in the [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)  (**Tutorial of globFit.pdf**) of the paper.
  
- GlobLoc has been fully integrated in [SMAP](https://github.com/jries/SMAP/tree/develop) and is now archived. Clone SMAP to have access to GlobLoc.
+ GlobLoc has been fully integrated in fit3Dcspline plugin of [SMAP](https://github.com/jries/SMAP/tree/develop).
 
 
  # How to cite GlobLoc
