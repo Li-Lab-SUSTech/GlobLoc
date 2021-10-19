@@ -13,8 +13,8 @@ To do...
 The GPU fitter requires:
   
   - Microsoft Windows 7 or newer, 64-bit
-  - CUDA capable graphics card, minimum Compute Capability 3.0
-  - CUDA 8 compatible graphics driver (for GeForce products 378.66 or later)
+  - CUDA capable graphics card, minimum Compute Capability 6.1
+  - CUDA 10.1 compatible graphics driver (for GeForce products 471.41 or later)
 
 The CPU version runs on macOS and Microsoft Windows 7 or newer, 64-bit
 # Contact
