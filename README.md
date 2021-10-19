@@ -15,7 +15,7 @@ The GPU fitter requires:
 The CPU version runs on macOS and Microsoft Windows 7 or newer, 64-bit
 
  # How to run
- Example code is avalible in file **Example_GlobalFit_biplane.m**. The required test data for the demo code can be found in the folder by following [this link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV). GlobLoc has been fully integrated in fit3Dcspline plugin of [SMAP](https://github.com/jries/SMAP/tree/develop). A full instruction guide can be found in the [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)  (**Tutorial of globFit.pdf**) of the paper.
+ Example code is avalible in file **Example_GlobalFit_biplane.m**. The required test data for the demo code can be found in the folder by following [this link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV). GlobLoc has been fully integrated in fit3Dcspline plugin of [SMAP](https://github.com/jries/SMAP/tree/develop). A full instruction guide can be found in the [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)  (**Tutorial of globFit.pdf**) of the [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1).
  
 # Contact
 For any questions / comments about this software, please contact [Li Lab](https://faculty.sustech.edu.cn/liym2019/en/).
