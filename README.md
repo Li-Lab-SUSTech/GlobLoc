@@ -4,9 +4,9 @@
 
 
 # Requirements
-  - Matlab R2019a or newer  
-    - Curve Fitting Toolbox
-    - Optimization Toolbox
+Matlab R2019a or newer  
+  - Curve Fitting Toolbox
+  - Optimization Toolbox
 
 The GPU fitter requires:
   
@@ -26,7 +26,7 @@ Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzh
  
  Example [data link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV)
  
-A full instruction guide can be found in [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
+A full instruction guide can be found in **Tutorial of globFit.pdf** of [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)
 
 
  # How to cite GlobLoc
