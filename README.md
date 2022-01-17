@@ -39,8 +39,8 @@ GlobLoc_python
  # How to run
  GlobLoc_matlab
  ---
-
  Examples code are avalible in file **Example_GlobalFit_4Pi.m, Example_GlobalFit_biplane.m, Example_GlobalFit_Gauss.m, Example_GlobalFit_Ratiometric.m**. The required test data for the demo code can be found in the folder by following [this link](https://oc.embl.de/index.php/s/bs1ADBsc4t6aiVV). GlobLoc has been fully integrated in fit3Dcspline plugin of [SMAP](https://github.com/jries/SMAP/tree/develop).
+ 
  GlobLoc_python
  ---
  Examples code are avalible in file **example_4pi.py, example_biplane.py, example_gauss.py, example_ratiometric.py**.The required test data for the demo code can be found in the folder by following [this link](https://www.embl.de/download/ries/globLoc/GlobLoc_testdata_Python.zip). The results of the example can be found in the folder **output**.
