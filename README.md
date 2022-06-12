@@ -45,7 +45,7 @@ GlobLoc_python
  ---
  Examples code are avalible in file **example_4pi.py, example_biplane.py, example_gauss.py, example_ratiometric.py**.The required test data for the demo code can be found in the folder by following [this link](https://www.embl.de/download/ries/globLoc/GlobLoc_testdata_Python.zip). The results of the example can be found in the folder **output**.
 
-  A full instruction guide can be found in the [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)  (**Tutorial of globFit.pdf**) of the [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1).
+  A full instruction guide can be found in the [supplementary material](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1.supplementary-material)  (**Tutorial of globFit.pdf**) of the [paper](https://www.nature.com/articles/s41467-022-30719-4).
 
 # Contact
 For any questions / comments about this software, please contact [Li Lab](https://faculty.sustech.edu.cn/liym2019/en/).
@@ -55,5 +55,5 @@ Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzh
 
 
  # How to cite GlobLoc
-If you use Global to process your data, please, cite our [paper](https://www.biorxiv.org/content/10.1101/2021.09.22.461230v1):
+If you use Global to process your data, please, cite our [paper](https://www.nature.com/articles/s41467-022-30719-4):
   * Yiming Li, Wei Shi, Sheng Liu, Ulf Matti, Decheng Wu, Jonas Ries. Global fitting for high-accuracy multi-channel single-molecule localization. bioRxiv doi: https://doi.org/10.1101/2021.09.22.461230.
