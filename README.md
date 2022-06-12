@@ -56,4 +56,4 @@ Copyright (c) 2021 Li Lab, Southern University of Science and Technology, Shenzh
 
  # How to cite GlobLoc
 If you use Global to process your data, please, cite our [paper](https://www.nature.com/articles/s41467-022-30719-4):
-  * Yiming Li, Wei Shi, Sheng Liu, Ulf Matti, Decheng Wu, Jonas Ries. Global fitting for high-accuracy multi-channel single-molecule localization. bioRxiv doi: https://doi.org/10.1101/2021.09.22.461230.
+  * Yiming Li, Wei Shi, Sheng Liu, Ivana Cavka, Yu-Le Wu, Ulf Matti, Decheng Wu, Simone Koehler, Jonas Ries. Global fitting for high-accuracy multi-channel single-molecule localization. Nat. Commun. 13, 3133 (2022).
